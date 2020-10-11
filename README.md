@@ -16,9 +16,7 @@ Refactoring is a key part of the coding process. When refactoring, you aren’t 
 Refactoring should increase effectiveness and improve logic; in this case it stands true. 
 
 When running the code before refactoring 2017 and 2018 ran in .7773438 and .7773438 seconds respectively. 
-(https://github.com/chreroax1/Stock-Analysis/blob/main/Resources/Green-Stocks_2017.png)
-
-(https://github.com/chreroax1/Stock-Analysis/blob/main/Resources/Green-Stocks_2018.png)
+[2017](https://github.com/chreroax1/Stock-Analysis/blob/main/Resources/Green-Stocks_2017.png)[2018](https://github.com/chreroax1/Stock-Analysis/blob/main/Resources/Green-Stocks_2018.png)
 
 After refactoring, 2017 and 2018 ran in .125 and .09375 respectively.
 
